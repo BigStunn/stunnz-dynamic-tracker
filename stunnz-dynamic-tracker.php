@@ -20,7 +20,7 @@ if (!defined('STUNNZ_TRACKER_POSTTYPE')) define('STUNNZ_TRACKER_POSTTYPE', 'wpca
 if (!defined('STUNNZ_TRACKER_METAKEY')) define('STUNNZ_TRACKER_METAKEY', 'original_post_title');
 
 if (!defined('STUNNZ_GOOGLE_API_KEY')) {
-    define('STUNNZ_GOOGLE_API_KEY', 'AIzaSyA3NnNe8ks7CUxWcoDe_JEl-Ky_xB6ZweM');
+    define('STUNNZ_GOOGLE_API_KEY', 'Google Api key goes in here');
 }
 
 /* ----------------------------------------------------------------
